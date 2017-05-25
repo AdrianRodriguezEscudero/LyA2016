@@ -1,2 +1,0 @@
-# LyA
-Prácticas de Algorítmica
